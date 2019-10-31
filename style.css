@@ -1,0 +1,72 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+body {
+  background-color: white;
+  font-family: "Exo 2", sans-serif;
+  padding: 5px 25px;
+ 
+  margin: 0;
+  color: #444;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 50px;
+}
+div {
+  clear:left;
+}
+.court {
+  float: left;
+  padding-right: 20px;
+}
+.test {
+}
+h2 {
+  font-size: 20px;
+  padding-top: 10px;
+}
+h3 {
+  float:right;
+}
+h4 {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.person {
+  padding-right: 20px;
+  padding-top
+  height: 200px;
+  width: 200px;
+  float:left;
+}
+h5{
+  font-size: 20px;
+}
+.Video1 {
+  padding: 50px;
+  background-color: rgb(148, 235, 242);
+}
+h6 {
+  font-size: 40px;
+}
+h7{
+  font-size: 20px;
+  font-weight: bold;
+}
+h8 {
+  float: right;
+  padding-top: 40px;
+}
+h9{
+  clear:both;
+  font-size:30px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+iFrame{
+  padding-top: 20px;
+}
